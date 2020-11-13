@@ -25,7 +25,7 @@ let secondAddress ={
 storeAddress("Thousif Khan",firstAddress,secondAddress)
 
 
-let calculateAge = function(day, month, year) {
+/*let calculateAge = function(day, month, year) {
   // start your code here.
   var today = new Date();
   var thisMonth = today.getMonth();
@@ -34,6 +34,6 @@ let calculateAge = function(day, month, year) {
   var output = "Your age is " + yourAge;
   return output;
  };
- alert(calculateAge(28,02,1992));
+ alert(calculateAge(28,02,1992));*/
 
 
